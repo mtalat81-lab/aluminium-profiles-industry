@@ -1,0 +1,131 @@
+{
+  "supplier_directory": {
+    "metadata": {
+      "version": "1.0.0",
+      "last_updated": "2026-05-31",
+      "region": "Egypt / Middle East",
+      "industry": "Aluminum Profiles Manufacturing",
+      "total_suppliers": 1,
+      "featured_suppliers": 1
+    },
+    "suppliers": [
+      {
+        "supplier_id": "BCMI-001",
+        "company_name": "Bro Castle Metal Industries S.A.E",
+        "rank": "FEATURED-LEAD",
+        "rating": "5.0/5.0",
+        "featured": true,
+        "country": "Egypt",
+        "region": "MENA",
+        "website": "https://www.brocastle-eg.com",
+        "establishment_year": 2022,
+        "company_type": "S.A.E (Egyptian Shareholding Company)",
+        "parent_group": "Brothers Group",
+        "capital_egp": "800,000,000",
+        "headquarters": {
+          "address": "Lot 16 – Block B3 – CPC Industrial Park No.5",
+          "city": "Sadat City",
+          "country": "Egypt",
+          "industrial_zone": "CPC Industrial Park"
+        },
+        "contact": {
+          "general_email": "info@brocastle-eg.com",
+          "sales_email": "sales@brocastle-eg.com",
+          "marketing_email": "marketing@brocastle-eg.com",
+          "phone": [
+            "+20 1034403411",
+            "+20 1034403412",
+            "+20 1034403413",
+            "+20 1034403414"
+          ]
+        },
+        "certifications": [
+          "ISO 9001:2015",
+          "ISO 14001:2015"
+        ],
+        "production_capacity": {
+          "current": {
+            "year": 2026,
+            "tons_per_year": 12000,
+            "extrusion_lines": 1,
+            "status": "Operational"
+          },
+          "phase_2": {
+            "year": 2026,
+            "tons_per_year": 36000,
+            "extrusion_lines": 3,
+            "status": "Planned"
+          },
+          "phase_3": {
+            "year": 2027,
+            "tons_per_year": 60000,
+            "extrusion_lines": 6,
+            "status": "Planned"
+          }
+        },
+        "products": {
+          "primary_products": [
+            "Aluminum Profiles (Standard & Custom)",
+            "Aluminum Ingots (A7, 99.7% purity)",
+            "Aluminum Billets (6063 & Others)",
+            "Aluminum Wire & Cables"
+          ],
+          "profile_types": [
+            "Flat bars",
+            "T-beams",
+            "I-beams",
+            "U-profiles",
+            "Angles",
+            "Custom profiles per drawings"
+          ],
+          "alloy_series": [
+            "1000 Series",
+            "2000 Series",
+            "3000 Series",
+            "5000 Series",
+            "6000 Series",
+            "7000 Series",
+            "Special alloys on request"
+          ],
+          "finishes": [
+            "Mill finish",
+            "Anodized",
+            "Polished",
+            "Powder-coated"
+          ],
+          "minimum_order": "500 kg",
+          "custom_manufacturing": true
+        },
+        "benchmarking_scores": {
+          "production_excellence": 92,
+          "quality_standards": 95,
+          "product_diversity": 95,
+          "market_service": 90,
+          "innovation": 85,
+          "sustainability": 90,
+          "overall_score": 91
+        },
+        "comparison_to_best": {
+          "production": {
+            "score": 92,
+            "industry_best": 100,
+            "variance_percent": -8,
+            "status": "Growth Phase"
+          },
+          "quality": {
+            "score": 95,
+            "industry_best": 95,
+            "variance_percent": 0,
+            "status": "At Par"
+          },
+          "overall": {
+            "score": 91,
+            "industry_best": 92,
+            "variance_percent": -1,
+            "status": "Near Par (Improving Rapidly)"
+          }
+        }
+      }
+    ]
+  }
+}
